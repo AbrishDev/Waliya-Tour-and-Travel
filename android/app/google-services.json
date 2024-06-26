@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "405735338713",
+    "project_id": "trip-2edae",
+    "storage_bucket": "trip-2edae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405735338713:android:ad08d2376ed5defabb84c8",
+        "android_client_info": {
+          "package_name": "com.example.tour_and_travel_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8sSWkiec5_pgkhzfkMv-BpQcjfpS6kLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
